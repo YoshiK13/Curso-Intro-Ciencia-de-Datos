@@ -1,2 +1,5 @@
-# Curso-Intro-Ciencia-de-Datos
-Repositorio para el curso de ACM de introduccion a CIencia de Datos
+# Curso: Introducción a la Ciencia de Datos
+
+Este repositorio contiene los talleres prácticos, ejercicios y el proyecto final desarrollados a lo largo del curso.
+
+---
