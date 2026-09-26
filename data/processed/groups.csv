@@ -1,0 +1,160 @@
+tournament_id,stage_number,stage_name,group_name,count_teams
+WC-1930,1,group stage,Group 1,4
+WC-1930,1,group stage,Group 2,3
+WC-1930,1,group stage,Group 3,3
+WC-1930,1,group stage,Group 4,3
+WC-1950,1,first round,Group 1,4
+WC-1950,1,first round,Group 2,4
+WC-1950,1,first round,Group 3,3
+WC-1950,1,first round,Group 4,2
+WC-1950,2,final round,Group 1,4
+WC-1954,1,group stage,Group 1,4
+WC-1954,1,group stage,Group 2,4
+WC-1954,1,group stage,Group 3,4
+WC-1954,1,group stage,Group 4,4
+WC-1958,1,group stage,Group 1,4
+WC-1958,1,group stage,Group 2,4
+WC-1958,1,group stage,Group 3,4
+WC-1958,1,group stage,Group 4,4
+WC-1962,1,group stage,Group 1,4
+WC-1962,1,group stage,Group 2,4
+WC-1962,1,group stage,Group 3,4
+WC-1962,1,group stage,Group 4,4
+WC-1966,1,group stage,Group 1,4
+WC-1966,1,group stage,Group 2,4
+WC-1966,1,group stage,Group 3,4
+WC-1966,1,group stage,Group 4,4
+WC-1970,1,group stage,Group 1,4
+WC-1970,1,group stage,Group 2,4
+WC-1970,1,group stage,Group 3,4
+WC-1970,1,group stage,Group 4,4
+WC-1974,1,first group stage,Group 1,4
+WC-1974,1,first group stage,Group 2,4
+WC-1974,1,first group stage,Group 3,4
+WC-1974,1,first group stage,Group 4,4
+WC-1974,2,second group stage,Group A,4
+WC-1974,2,second group stage,Group B,4
+WC-1978,1,first group stage,Group 1,4
+WC-1978,1,first group stage,Group 2,4
+WC-1978,1,first group stage,Group 3,4
+WC-1978,1,first group stage,Group 4,4
+WC-1978,2,second group stage,Group A,4
+WC-1978,2,second group stage,Group B,4
+WC-1982,1,first group stage,Group 1,4
+WC-1982,1,first group stage,Group 2,4
+WC-1982,1,first group stage,Group 3,4
+WC-1982,1,first group stage,Group 4,4
+WC-1982,1,first group stage,Group 5,4
+WC-1982,1,first group stage,Group 6,4
+WC-1982,2,second group stage,Group A,3
+WC-1982,2,second group stage,Group B,3
+WC-1982,2,second group stage,Group C,3
+WC-1982,2,second group stage,Group D,3
+WC-1986,1,group stage,Group A,4
+WC-1986,1,group stage,Group B,4
+WC-1986,1,group stage,Group C,4
+WC-1986,1,group stage,Group D,4
+WC-1986,1,group stage,Group E,4
+WC-1986,1,group stage,Group F,4
+WC-1990,1,group stage,Group A,4
+WC-1990,1,group stage,Group B,4
+WC-1990,1,group stage,Group C,4
+WC-1990,1,group stage,Group D,4
+WC-1990,1,group stage,Group E,4
+WC-1990,1,group stage,Group F,4
+WC-1991,1,group stage,Group A,4
+WC-1991,1,group stage,Group B,4
+WC-1991,1,group stage,Group C,4
+WC-1994,1,group stage,Group A,4
+WC-1994,1,group stage,Group B,4
+WC-1994,1,group stage,Group C,4
+WC-1994,1,group stage,Group D,4
+WC-1994,1,group stage,Group E,4
+WC-1994,1,group stage,Group F,4
+WC-1995,1,group stage,Group A,4
+WC-1995,1,group stage,Group B,4
+WC-1995,1,group stage,Group C,4
+WC-1998,1,group stage,Group A,4
+WC-1998,1,group stage,Group B,4
+WC-1998,1,group stage,Group C,4
+WC-1998,1,group stage,Group D,4
+WC-1998,1,group stage,Group E,4
+WC-1998,1,group stage,Group F,4
+WC-1998,1,group stage,Group G,4
+WC-1998,1,group stage,Group H,4
+WC-1999,1,group stage,Group A,4
+WC-1999,1,group stage,Group B,4
+WC-1999,1,group stage,Group C,4
+WC-1999,1,group stage,Group D,4
+WC-2002,1,group stage,Group A,4
+WC-2002,1,group stage,Group B,4
+WC-2002,1,group stage,Group C,4
+WC-2002,1,group stage,Group D,4
+WC-2002,1,group stage,Group E,4
+WC-2002,1,group stage,Group F,4
+WC-2002,1,group stage,Group G,4
+WC-2002,1,group stage,Group H,4
+WC-2003,1,group stage,Group A,4
+WC-2003,1,group stage,Group B,4
+WC-2003,1,group stage,Group C,4
+WC-2003,1,group stage,Group D,4
+WC-2006,1,group stage,Group A,4
+WC-2006,1,group stage,Group B,4
+WC-2006,1,group stage,Group C,4
+WC-2006,1,group stage,Group D,4
+WC-2006,1,group stage,Group E,4
+WC-2006,1,group stage,Group F,4
+WC-2006,1,group stage,Group G,4
+WC-2006,1,group stage,Group H,4
+WC-2007,1,group stage,Group A,4
+WC-2007,1,group stage,Group B,4
+WC-2007,1,group stage,Group C,4
+WC-2007,1,group stage,Group D,4
+WC-2010,1,group stage,Group A,4
+WC-2010,1,group stage,Group B,4
+WC-2010,1,group stage,Group C,4
+WC-2010,1,group stage,Group D,4
+WC-2010,1,group stage,Group E,4
+WC-2010,1,group stage,Group F,4
+WC-2010,1,group stage,Group G,4
+WC-2010,1,group stage,Group H,4
+WC-2011,1,group stage,Group A,4
+WC-2011,1,group stage,Group B,4
+WC-2011,1,group stage,Group C,4
+WC-2011,1,group stage,Group D,4
+WC-2014,1,group stage,Group A,4
+WC-2014,1,group stage,Group B,4
+WC-2014,1,group stage,Group C,4
+WC-2014,1,group stage,Group D,4
+WC-2014,1,group stage,Group E,4
+WC-2014,1,group stage,Group F,4
+WC-2014,1,group stage,Group G,4
+WC-2014,1,group stage,Group H,4
+WC-2015,1,group stage,Group A,4
+WC-2015,1,group stage,Group B,4
+WC-2015,1,group stage,Group C,4
+WC-2015,1,group stage,Group D,4
+WC-2015,1,group stage,Group E,4
+WC-2015,1,group stage,Group F,4
+WC-2018,1,group stage,Group A,4
+WC-2018,1,group stage,Group B,4
+WC-2018,1,group stage,Group C,4
+WC-2018,1,group stage,Group D,4
+WC-2018,1,group stage,Group E,4
+WC-2018,1,group stage,Group F,4
+WC-2018,1,group stage,Group G,4
+WC-2018,1,group stage,Group H,4
+WC-2019,1,group stage,Group A,4
+WC-2019,1,group stage,Group B,4
+WC-2019,1,group stage,Group C,4
+WC-2019,1,group stage,Group D,4
+WC-2019,1,group stage,Group E,4
+WC-2019,1,group stage,Group F,4
+WC-2022,1,group stage,Group A,4
+WC-2022,1,group stage,Group B,4
+WC-2022,1,group stage,Group C,4
+WC-2022,1,group stage,Group D,4
+WC-2022,1,group stage,Group E,4
+WC-2022,1,group stage,Group F,4
+WC-2022,1,group stage,Group G,4
+WC-2022,1,group stage,Group H,4
